@@ -104,13 +104,11 @@ Este repositório contém as entregas do desafio final do bootcamp, usando:
 
 ## (Core) Produtos e subcategorias
 - **Subcategoria com maior total de vendas:** `Labels` (id 11) — **48.011,54**
-- **Produto com maior prejuízo (lucro_total mais negativo):**
-  - `OFF-AP-10001623` — *Hoover Stove, White* — **-4.986,48**
+
 
 ### Evidências
 ![subcategoria maior venda](docs/p2_core_subcategoria_maior_venda.png)
 ![ranking produtos com maior prejuízo](docs/p2_core_produtos_maior_prejuizo_ranking.png)
-![produto maior prejuízo (detalhe)](docs/p2_core_produto_maior_prejuizo_detalhe.png)
 
 ---
 

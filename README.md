@@ -31,6 +31,4 @@
 ## Como reproduzir
 1. Importar o `desafiofinal.sql` no phpMyAdmin
 2. Importar o `rating.csv` na tabela `rating`
-3. Executar `sql/01_rating_clean.sql`
-
-<!-- update -->
+3. Executar \sql/01_rating_clean.sql
